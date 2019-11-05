@@ -1,7 +1,7 @@
 package org.scoverage.issue53.part.a
 
 /**
- * Created by Mikhail Kokho on 7/10/2015.
+ * Created by Mikhail Kokho on 5/11/2019.
  */
 object AdderScala {
 

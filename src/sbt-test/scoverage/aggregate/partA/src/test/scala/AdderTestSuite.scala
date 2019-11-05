@@ -2,7 +2,7 @@ import org.specs2.mutable._
 import org.scoverage.issue53.part.a.AdderScala
 
 /**
- * Created by Mikhail Kokho on 7/10/2015.
+ * Created by Mikhail Kokho on 5/11/2019.
  */
 class AdderTestSuite extends Specification {
   "Adder" should {

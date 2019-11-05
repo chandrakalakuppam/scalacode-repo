@@ -2,7 +2,7 @@ import org.specs2.mutable._
 import org.scoverage.issue53.part.b.SubtractorScala
 
 /**
- * Created by Mikhail Kokho on 7/10/2015.
+ * Created by Mikhail Kokho on 5/11/2019.
  */
 class SubtractorTestSuite extends Specification {
   "Subtractor" should {

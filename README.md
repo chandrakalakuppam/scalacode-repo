@@ -1,13 +1,13 @@
 sbt-scoverage
 ========
 
-sbt-scoverage is a plugin for SBT that integrates the scoverage code coverage library. Find out more about [scoverage](https://github.com/scoverage/scalac-scoverage-plugin).
+sbt-scoverage is a plugin for SBT that integrates the scoverage code coverage library. Find out more about [thotamanikanta23](https://github.com/thotamanikanta23/scalac-scoverage-plugin).
 
-Join the [scoverage](http://groups.google.com/group/scala-code-coverage-tool)
+Join the [thotamanikanta23](http://groups.google.com/group/scala-code-coverage-tool)
 google group for help, bug reports, feature requests, and general
 discussion on scoverage.
 
-[![Build Status](https://travis-ci.org/scoverage/sbt-scoverage.png?branch=master)](https://travis-ci.org/scoverage/sbt-scoverage)
+[![Build Status](https://travis-ci.org/thotamanikanta23/sbt-scoverage.png?branch=master)](https://travis-ci.org/thotamanikanta23/sbt-scoverage)
 [![License](http://img.shields.io/:license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 [<img src="https://img.shields.io/maven-central/v/org.scoverage/sbt-scoverage.svg?label=latest%20release"/>](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22sbt-scoverage%22)
 
@@ -52,7 +52,7 @@ If you're running the coverage reports from within an sbt console session (as
 opposed to one command per sbt launch), then the `coverage` command is sticky. To
 turn it back off when you're done running reports, use the `coverageOff` command or reset `coverageEnabled` with `set coverageEnabled := false`.
 
-Sample project with scoverage in both sbt and maven - [the scoverage samples project](https://github.com/scoverage/sbt-scoverage-samples).
+Sample project with scoverage in both sbt and maven - [the thotamanikanta23 samples project](https://github.com/thotamanikanta23/sbt-scoverage-samples).
 
 ## Notes on upgrading to version 1.6.0
 
@@ -140,7 +140,7 @@ If you are running into a scenario where your tests normally pass, but fail when
 
 ### Coveralls
 
-If you have an open source project then you can add code coverage metrics with the excellent website https://coveralls.io/ Scoverage will integrate with coveralls using the [sbt-coveralls](https://github.com/scoverage/sbt-coveralls) plugin.
+If you have an open source project then you can add code coverage metrics with the excellent website https://coveralls.io/ Scoverage will integrate with coveralls using the [sbt-coveralls](https://github.com/thotamanikanta23/sbt-coveralls) plugin.
 
 ### Plugin for SonarQube
 

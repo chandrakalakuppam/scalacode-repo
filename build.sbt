@@ -46,7 +46,7 @@ publishTo := {
 }
 
 pomExtra := {
-  <url>https://github.com/scoverage/sbt-scoverage</url>
+  <url>https://github.com/thotamanikanta23/sbt-scoverage</url>
     <licenses>
       <license>
         <name>Apache 2</name>
@@ -55,8 +55,8 @@ pomExtra := {
       </license>
     </licenses>
     <scm>
-      <url>git@github.com:scoverage/sbt-scoverage.git</url>
-      <connection>scm:git@github.com:scoverage/sbt-scoverage.git</connection>
+      <url>git@github.com:thotamanikanta23/sbt-scoverage.git</url>
+      <connection>scm:git@github.com:thotamanikanta23/sbt-scoverage.git</connection>
     </scm>
     <developers>
       <developer>
