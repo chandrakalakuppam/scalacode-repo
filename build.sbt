@@ -37,6 +37,8 @@ releaseProcess := Seq[ReleaseStep](
 )
 
 releaseCrossBuild := false
+coverageEnabled := true
+
 
 publishTo := {
   if (isSnapshot.value)
